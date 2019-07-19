@@ -38,7 +38,7 @@ Learn more about [planning permissions](https://docs.microsoft.com/en-us/sharepo
 
 ## Step 2: Assign Search admin and Search editor
 
-There are two new roles in **Microsoft admin center** – Search administrator and Search editor.  Global admin, who has full privileges, assigns admin roles to users including the role of Search administrator. Search administrators can delegate the Search administrator or Search editor roles to other users. For more information on different admin roles, see [About Office 365 admin roles](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles?view=o365-worldwide).
+There are two new roles in **Microsoft 365 admin center** – Search administrator and Search editor.  Global admin, who has full privileges, assigns admin roles to users including the role of Search administrator. Search administrators can delegate the Search administrator or Search editor roles to other users. For more information on different admin roles, see [About Office 365 admin roles](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles?view=o365-worldwide).
 
 **Note:** These two new roles – Search admin and Search editor – are available in **Microsoft 365 admin center** only, not in the legacy admin portal. 
 
